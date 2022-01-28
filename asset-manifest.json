@@ -1,0 +1,34 @@
+{
+  "files": {
+    "app.js": "/mypos/static/js/app.44b68127.chunk.js",
+    "app.js.map": "/mypos/static/js/app.44b68127.chunk.js.map",
+    "runtime~app.js": "/mypos/static/js/runtime~app.a89a3a11.js",
+    "runtime~app.js.map": "/mypos/static/js/runtime~app.a89a3a11.js.map",
+    "static/js/2.73eb87c1.chunk.js": "/mypos/static/js/2.73eb87c1.chunk.js",
+    "static/js/2.73eb87c1.chunk.js.map": "/mypos/static/js/2.73eb87c1.chunk.js.map",
+    "fonts/AntDesign.ttf": "/mypos/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/mypos/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/mypos/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/mypos/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/mypos/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/mypos/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/mypos/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/mypos/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/mypos/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/mypos/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/mypos/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/mypos/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/mypos/favicon-16.png",
+    "favicon-32.png": "/mypos/favicon-32.png",
+    "favicon.ico": "/mypos/favicon.ico",
+    "index.html": "/mypos/index.html",
+    "manifest.json": "/mypos/manifest.json",
+    "serve.json": "/mypos/serve.json",
+    "static/js/2.73eb87c1.chunk.js.LICENSE.txt": "/mypos/static/js/2.73eb87c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.a89a3a11.js",
+    "static/js/2.73eb87c1.chunk.js",
+    "static/js/app.44b68127.chunk.js"
+  ]
+}
